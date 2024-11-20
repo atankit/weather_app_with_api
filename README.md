@@ -17,8 +17,9 @@ A simple weather application built using OpenWeather API to fetch real-time weat
      - OpenWeather API
 
 ## 📸 Screenshots
+[![Watch the video](https://github.com/user-attachments/assets/fb37f9bd-2746-4030-95db-62d8fa0fddd9)]
 
-
+https://github.com/user-attachments/assets/fb37f9bd-2746-4030-95db-62d8fa0fddd9
 
     
 
