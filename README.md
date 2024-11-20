@@ -18,10 +18,6 @@ A simple weather application built using OpenWeather API to fetch real-time weat
 
 ## 📸 Screenshots
 
-<video width="600" height="400" controls>
-  <source src="https://github.com/user-attachments/assets/fb37f9bd-2746-4030-95db-62d8fa0fddd9" type="video/mp4">
-</video>
-
 https://github.com/user-attachments/assets/fb37f9bd-2746-4030-95db-62d8fa0fddd9
 
     
